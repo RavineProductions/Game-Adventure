@@ -1,0 +1,116 @@
+{
+  "images" : [
+    {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM.jpeg",
+      "scale" : "2x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-1.jpeg",
+      "scale" : "3x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-2.jpeg",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-3.jpeg",
+      "scale" : "3x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-4.jpeg",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-5.jpeg",
+      "scale" : "3x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-6.jpeg",
+      "scale" : "2x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-7.jpeg",
+      "scale" : "3x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "ipad",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-8.jpeg",
+      "scale" : "1x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "ipad",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-9.jpeg",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-10.jpeg",
+      "scale" : "1x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-11.jpeg",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-12.jpeg",
+      "scale" : "1x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-13.jpeg",
+      "scale" : "2x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-14.jpeg",
+      "scale" : "1x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-15.jpeg",
+      "scale" : "2x"
+    },
+    {
+      "size" : "83.5x83.5",
+      "idiom" : "ipad",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-16.jpeg",
+      "scale" : "2x"
+    },
+    {
+      "size" : "1024x1024",
+      "idiom" : "ios-marketing",
+      "filename" : "WhatsApp Image 2019-09-22 at 3.17.01 PM-17.jpeg",
+      "scale" : "1x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
