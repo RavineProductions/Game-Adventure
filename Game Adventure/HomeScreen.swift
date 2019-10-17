@@ -9,7 +9,7 @@
 import UIKit
 
 class HomeScreen: UIViewController {
-    print("Test print")
+
 
     @IBOutlet weak var backStartScreen: BorderButton!
     @IBOutlet weak var GameMenu: BorderButton!
