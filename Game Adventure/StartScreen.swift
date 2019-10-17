@@ -8,7 +8,6 @@
 
 import UIKit
 class StartScreen: UIViewController {
-    print("Testing 123")
 
     @IBOutlet weak var StartButton: BorderButton!
     override func viewDidLoad() {
